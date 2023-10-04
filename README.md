@@ -1,8 +1,8 @@
- Hi, I’m Ali Abdullah
-👀 I’m interested in Web Development and Data Science
-🌱 I’m currently learning React.js, python and R
-📫 You can contact me on linkedin through the link below:
-https://www.linkedin.com/in/ali-abdullah/
+- 👋🏼 Hi, I’m Ali Abdullah
+- 👀 I’m interested in Web Development and Data Science
+- 🌱 I’m currently learning React.js, python and R
+- 📫 You can contact me on linkedin through the link below:
+- https://www.linkedin.com/in/ali-abdullah/
 
 <!---
 ali-ab-2003/ali-ab-2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
