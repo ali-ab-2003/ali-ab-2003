@@ -1,6 +1,5 @@
 - 👋🏼 Hi, I’m Ali Abdullah
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Mobile App developnment with flutter
 - 📫 You can contact me on linkedin through the link below:
 - https://www.linkedin.com/in/ali-abdullah/
 
