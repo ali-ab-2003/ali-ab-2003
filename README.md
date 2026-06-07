@@ -68,10 +68,7 @@
 
 ### ✍️ A little about me
  
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+LawEase+%E2%80%94+RAG-powered+legal+AI;Published+DevBrief+on+npm;Open+to+full+stack+%26+AI+engineering+roles;FAST-NUCES+%7C+Graduating+June+2026;I+ship+things+that+work+in+production)](https://git.io/typing-svg)
- 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+LawEase+%E2%80%94+RAG-powered+legal+AI;Published+DevBrief+on+npm;Open+to+full+stack+%26+AI+engineering+roles;FAST-NUCES+%7C+Graduating+June+2026)](https://git.io/typing-svg)
 
 ---
 
