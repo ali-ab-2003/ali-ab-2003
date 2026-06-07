@@ -61,8 +61,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**LawEase**](https://github.com/ali-ab-2003) | AI legal assistant with RAG pipeline over 12,000+ legal documents. 4 core features: doc analysis, case summarization, contract compliance, advocate matching. | Python · Flask · React · FAISS · Supabase |
-| [**DevBrief**](https://github.com/ali-ab-2003) | Published npm CLI — scans local Git repos, generates activity digests with streaks, commit stats, and optional Groq-powered LinkedIn post export. | TypeScript · Node.js · Groq API · npm |
-| [**Distributed Load Balancer**](https://github.com/ali-ab-2003) | HTTP load balancer from scratch — zero external deps, round-robin routing, active health checks, real-time metrics dashboard. Handles 1,000+ concurrent requests. | Node.js · Docker · HTTP |
+| [**DevBrief**](https://github.com/ali-ab-2003/devbrief) | Published npm CLI — scans local Git repos, generates activity digests with streaks, commit stats, and optional Groq-powered LinkedIn post export. | TypeScript · Node.js · Groq API · npm |
 
 ---
 
