@@ -68,10 +68,7 @@
 
 ### 📊 GitHub Activity
  
-<div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ali-ab-2003&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b)
- 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ---
 
 ---
