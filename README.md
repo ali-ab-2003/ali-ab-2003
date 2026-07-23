@@ -74,8 +74,8 @@
 
 ### 🧠 Currently Building
 
-- 🔨 **DevBrief** — offline Git activity CLI, TypeScript, publishing to npm
-- 📚 **B.S. Data Science** @ FAST-NUCES · Graduating June 2026
+- 🔨 **ABDTrading LLC Wesbite** — complete frontend plus backend, and chatbot support
+- 📚 **B.S. Data Science Graduate** @ FAST-NUCES
 - 🌍 Open to **Full Stack** and **AI Engineering** roles
 
 ---
