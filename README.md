@@ -68,13 +68,13 @@
 
 ### ✍️ A little about me
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+LawEase+%E2%80%94+RAG-powered+legal+AI;Published+DevBrief+on+npm;Open+to+full+stack+%26+AI+engineering+roles;FAST-NUCES+%7C+Graduating+June+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Multani+%7C+Traders+%7C+LLC+%E2%80%94+RAG-powered+AI+Chat+Assistant;Published+DevBrief+on+npm;Open+to+full+stack+%26+AI+engineering+roles;FAST-NUCES+%7C+Data+%7C+Science+%7C+Graduate)](https://git.io/typing-svg)
 
 ---
 
 ### 🧠 Currently Building
 
-- 🔨 **ABDTrading LLC Wesbite** — complete frontend plus backend, and chatbot support
+- 🔨 **Multani Traders LLC Wesbite** — complete frontend plus backend, and chatbot support
 - 📚 **B.S. Data Science Graduate** @ FAST-NUCES
 - 🌍 Open to **Full Stack** and **AI Engineering** roles
 
